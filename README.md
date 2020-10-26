@@ -1,2 +1,2 @@
 # Matplotlib-Challenge
-Matplot homework for Data Boot Camp
+Using Matplotlib to analyze a pharmaceutical study on mice.
